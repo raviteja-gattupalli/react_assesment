@@ -1,0 +1,28 @@
+*{
+  background-color: cornsilk;
+}
+.container{
+
+    
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+  
+}
+
+#heading{
+
+  text-align: center;
+  font-family: cursive;
+}
+.dropdown{
+
+  width:180px;
+  border:2px dashed tomato;
+  padding: 2px;
+  margin:10px;
+ border-radius: 10px;
+ outline: none;
+ 
+}
